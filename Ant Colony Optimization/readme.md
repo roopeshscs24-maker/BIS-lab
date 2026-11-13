@@ -2,6 +2,7 @@ Research Paper
 Title: Ant Colony Optimization for Resource-Constrained Project Scheduling
 D. Merkle, M. Middendorf and H. Schmeck, "Ant colony optimization for resource-constrained project scheduling," in IEEE Transactions on Evolutionary Computation, vol. 6, no. 4, pp. 333-346, Aug. 2002, doi: 10.1109/TEVC.2002.802450.
 keywords: {Ant colony optimization;Scheduling algorithm;Benchmark testing;Genetic algorithms;Simulated annealing;Sampling methods;Libraries;NP-hard problem;Iterative methods},
+ 10.1109/TEVC.2002.802450
 
 
 
